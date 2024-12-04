@@ -17,6 +17,9 @@
     "@ui5/webcomponents-react": "2.4.0",
     "@ui5/webcomponents-react-base": "2.4.0"
   },
+  "devDependencies": {
+    "prettier": "latest"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
